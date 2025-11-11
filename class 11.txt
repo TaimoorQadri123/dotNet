@@ -6,3 +6,6 @@ Scaffold-DbContext "Server=LAB-104-INSTRUC\MSSQLSERVER01;Database=db_DatabaseFir
 https://www.mediafire.com/file/8b0vke9ouwaczky/789d4991-c232-4379-bf62-96aed06b3c31.webm/file
 
 
+
+
+blob:https://www.flexclip.com/789d4991-c232-4379-bf62-96aed06b3c31
