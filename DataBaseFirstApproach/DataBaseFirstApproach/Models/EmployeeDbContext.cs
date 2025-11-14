@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
+using DataBaseFirstApproach.Models;
 
 namespace DataBaseFirstApproach.Models;
 
@@ -47,4 +48,6 @@ public partial class EmployeeDbContext : DbContext
     }
 
     partial void OnModelCreatingPartial(ModelBuilder modelBuilder);
+
+public DbSet<DataBaseFirstApproach.Models.Category> Category { get; set; } = default!;
 }

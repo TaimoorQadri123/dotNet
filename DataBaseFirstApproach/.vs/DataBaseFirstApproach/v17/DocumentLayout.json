@@ -1,41 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\DataBaseFirstApproach\\",
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\taimoor\\DataBaseFirstApproach\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7557734F-FA4E-4ECA-9226-694575F87E25}|DataBaseFirstApproach\\DataBaseFirstApproach.csproj|c:\\users\\hp\\source\\repos\\databasefirstapproach\\databasefirstapproach\\controllers\\employeecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7557734F-FA4E-4ECA-9226-694575F87E25}|DataBaseFirstApproach\\DataBaseFirstApproach.csproj|c:\\users\\admin\\desktop\\taimoor\\databasefirstapproach\\databasefirstapproach\\controllers\\employeecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7557734F-FA4E-4ECA-9226-694575F87E25}|DataBaseFirstApproach\\DataBaseFirstApproach.csproj|solutionrelative:databasefirstapproach\\controllers\\employeecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7557734F-FA4E-4ECA-9226-694575F87E25}|DataBaseFirstApproach\\DataBaseFirstApproach.csproj|c:\\users\\hp\\source\\repos\\databasefirstapproach\\databasefirstapproach\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7557734F-FA4E-4ECA-9226-694575F87E25}|DataBaseFirstApproach\\DataBaseFirstApproach.csproj|solutionrelative:databasefirstapproach\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7557734F-FA4E-4ECA-9226-694575F87E25}|DataBaseFirstApproach\\DataBaseFirstApproach.csproj|c:\\users\\admin\\desktop\\taimoor\\databasefirstapproach\\databasefirstapproach\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7557734F-FA4E-4ECA-9226-694575F87E25}|DataBaseFirstApproach\\DataBaseFirstApproach.csproj|solutionrelative:databasefirstapproach\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7557734F-FA4E-4ECA-9226-694575F87E25}|DataBaseFirstApproach\\DataBaseFirstApproach.csproj|c:\\users\\hp\\source\\repos\\databasefirstapproach\\databasefirstapproach\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7557734F-FA4E-4ECA-9226-694575F87E25}|DataBaseFirstApproach\\DataBaseFirstApproach.csproj|solutionrelative:databasefirstapproach\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7557734F-FA4E-4ECA-9226-694575F87E25}|DataBaseFirstApproach\\DataBaseFirstApproach.csproj|c:\\users\\hp\\source\\repos\\databasefirstapproach\\databasefirstapproach\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7557734F-FA4E-4ECA-9226-694575F87E25}|DataBaseFirstApproach\\DataBaseFirstApproach.csproj|solutionrelative:databasefirstapproach\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7557734F-FA4E-4ECA-9226-694575F87E25}|DataBaseFirstApproach\\DataBaseFirstApproach.csproj|c:\\users\\hp\\source\\repos\\databasefirstapproach\\databasefirstapproach\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7557734F-FA4E-4ECA-9226-694575F87E25}|DataBaseFirstApproach\\DataBaseFirstApproach.csproj|solutionrelative:databasefirstapproach\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7557734F-FA4E-4ECA-9226-694575F87E25}|DataBaseFirstApproach\\DataBaseFirstApproach.csproj|c:\\users\\hp\\source\\repos\\databasefirstapproach\\databasefirstapproach\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{7557734F-FA4E-4ECA-9226-694575F87E25}|DataBaseFirstApproach\\DataBaseFirstApproach.csproj|c:\\users\\admin\\desktop\\taimoor\\databasefirstapproach\\databasefirstapproach\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{7557734F-FA4E-4ECA-9226-694575F87E25}|DataBaseFirstApproach\\DataBaseFirstApproach.csproj|solutionrelative:databasefirstapproach\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7557734F-FA4E-4ECA-9226-694575F87E25}|DataBaseFirstApproach\\DataBaseFirstApproach.csproj|c:\\users\\hp\\source\\repos\\databasefirstapproach\\databasefirstapproach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7557734F-FA4E-4ECA-9226-694575F87E25}|DataBaseFirstApproach\\DataBaseFirstApproach.csproj|c:\\users\\admin\\desktop\\taimoor\\databasefirstapproach\\databasefirstapproach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7557734F-FA4E-4ECA-9226-694575F87E25}|DataBaseFirstApproach\\DataBaseFirstApproach.csproj|solutionrelative:databasefirstapproach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7557734F-FA4E-4ECA-9226-694575F87E25}|DataBaseFirstApproach\\DataBaseFirstApproach.csproj|c:\\users\\hp\\source\\repos\\databasefirstapproach\\databasefirstapproach\\models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7557734F-FA4E-4ECA-9226-694575F87E25}|DataBaseFirstApproach\\DataBaseFirstApproach.csproj|c:\\users\\admin\\desktop\\taimoor\\databasefirstapproach\\databasefirstapproach\\migrations\\20251114105517_add_new_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7557734F-FA4E-4ECA-9226-694575F87E25}|DataBaseFirstApproach\\DataBaseFirstApproach.csproj|solutionrelative:databasefirstapproach\\migrations\\20251114105517_add_new_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7557734F-FA4E-4ECA-9226-694575F87E25}|DataBaseFirstApproach\\DataBaseFirstApproach.csproj|c:\\users\\admin\\desktop\\taimoor\\databasefirstapproach\\databasefirstapproach\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7557734F-FA4E-4ECA-9226-694575F87E25}|DataBaseFirstApproach\\DataBaseFirstApproach.csproj|solutionrelative:databasefirstapproach\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7557734F-FA4E-4ECA-9226-694575F87E25}|DataBaseFirstApproach\\DataBaseFirstApproach.csproj|c:\\users\\admin\\desktop\\taimoor\\databasefirstapproach\\databasefirstapproach\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7557734F-FA4E-4ECA-9226-694575F87E25}|DataBaseFirstApproach\\DataBaseFirstApproach.csproj|solutionrelative:databasefirstapproach\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7557734F-FA4E-4ECA-9226-694575F87E25}|DataBaseFirstApproach\\DataBaseFirstApproach.csproj|c:\\users\\admin\\desktop\\taimoor\\databasefirstapproach\\databasefirstapproach\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7557734F-FA4E-4ECA-9226-694575F87E25}|DataBaseFirstApproach\\DataBaseFirstApproach.csproj|solutionrelative:databasefirstapproach\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7557734F-FA4E-4ECA-9226-694575F87E25}|DataBaseFirstApproach\\DataBaseFirstApproach.csproj|c:\\users\\admin\\desktop\\taimoor\\databasefirstapproach\\databasefirstapproach\\models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7557734F-FA4E-4ECA-9226-694575F87E25}|DataBaseFirstApproach\\DataBaseFirstApproach.csproj|solutionrelative:databasefirstapproach\\models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7557734F-FA4E-4ECA-9226-694575F87E25}|DataBaseFirstApproach\\DataBaseFirstApproach.csproj|c:\\users\\hp\\source\\repos\\databasefirstapproach\\databasefirstapproach\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7557734F-FA4E-4ECA-9226-694575F87E25}|DataBaseFirstApproach\\DataBaseFirstApproach.csproj|c:\\users\\admin\\desktop\\taimoor\\databasefirstapproach\\databasefirstapproach\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7557734F-FA4E-4ECA-9226-694575F87E25}|DataBaseFirstApproach\\DataBaseFirstApproach.csproj|solutionrelative:databasefirstapproach\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -52,113 +56,126 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "EmployeeController1.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DataBaseFirstApproach\\DataBaseFirstApproach\\Controllers\\EmployeeController1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\taimoor\\DataBaseFirstApproach\\DataBaseFirstApproach\\Controllers\\EmployeeController1.cs",
               "RelativeDocumentMoniker": "DataBaseFirstApproach\\Controllers\\EmployeeController1.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\DataBaseFirstApproach\\DataBaseFirstApproach\\Controllers\\EmployeeController1.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\taimoor\\DataBaseFirstApproach\\DataBaseFirstApproach\\Controllers\\EmployeeController1.cs",
               "RelativeToolTip": "DataBaseFirstApproach\\Controllers\\EmployeeController1.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T02:01:09.009Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DataBaseFirstApproach\\DataBaseFirstApproach\\Views\\Employee\\Delete.cshtml",
-              "RelativeDocumentMoniker": "DataBaseFirstApproach\\Views\\Employee\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\DataBaseFirstApproach\\DataBaseFirstApproach\\Views\\Employee\\Delete.cshtml",
-              "RelativeToolTip": "DataBaseFirstApproach\\Views\\Employee\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-13T00:03:03.431Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DataBaseFirstApproach\\DataBaseFirstApproach\\Views\\Employee\\Edit.cshtml",
-              "RelativeDocumentMoniker": "DataBaseFirstApproach\\Views\\Employee\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\DataBaseFirstApproach\\DataBaseFirstApproach\\Views\\Employee\\Edit.cshtml",
-              "RelativeToolTip": "DataBaseFirstApproach\\Views\\Employee\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-12T23:58:02.491Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T11:03:33.059Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DataBaseFirstApproach\\DataBaseFirstApproach\\Views\\Employee\\Create.cshtml",
-              "RelativeDocumentMoniker": "DataBaseFirstApproach\\Views\\Employee\\Create.cshtml",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\DataBaseFirstApproach\\DataBaseFirstApproach\\Views\\Employee\\Create.cshtml",
-              "RelativeToolTip": "DataBaseFirstApproach\\Views\\Employee\\Create.cshtml",
+              "Title": "20251114105517_Add_New_Model.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\taimoor\\DataBaseFirstApproach\\DataBaseFirstApproach\\Migrations\\20251114105517_Add_New_Model.cs",
+              "RelativeDocumentMoniker": "DataBaseFirstApproach\\Migrations\\20251114105517_Add_New_Model.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\taimoor\\DataBaseFirstApproach\\DataBaseFirstApproach\\Migrations\\20251114105517_Add_New_Model.cs",
+              "RelativeToolTip": "DataBaseFirstApproach\\Migrations\\20251114105517_Add_New_Model.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-12T23:44:27.37Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T10:55:17.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\taimoor\\DataBaseFirstApproach\\DataBaseFirstApproach\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "DataBaseFirstApproach\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\taimoor\\DataBaseFirstApproach\\DataBaseFirstApproach\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "DataBaseFirstApproach\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T10:52:39.342Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DataBaseFirstApproach\\DataBaseFirstApproach\\appsettings.json",
-              "RelativeDocumentMoniker": "DataBaseFirstApproach\\appsettings.json",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\DataBaseFirstApproach\\DataBaseFirstApproach\\appsettings.json",
-              "RelativeToolTip": "DataBaseFirstApproach\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-12T23:21:17.432Z",
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\taimoor\\DataBaseFirstApproach\\DataBaseFirstApproach\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "DataBaseFirstApproach\\Models\\Products.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\taimoor\\DataBaseFirstApproach\\DataBaseFirstApproach\\Models\\Products.cs",
+              "RelativeToolTip": "DataBaseFirstApproach\\Models\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T10:43:55.137Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\taimoor\\DataBaseFirstApproach\\DataBaseFirstApproach\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "DataBaseFirstApproach\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\taimoor\\DataBaseFirstApproach\\DataBaseFirstApproach\\Models\\Category.cs",
+              "RelativeToolTip": "DataBaseFirstApproach\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T10:43:03.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\taimoor\\DataBaseFirstApproach\\DataBaseFirstApproach\\appsettings.json",
+              "RelativeDocumentMoniker": "DataBaseFirstApproach\\appsettings.json",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\taimoor\\DataBaseFirstApproach\\DataBaseFirstApproach\\appsettings.json",
+              "RelativeToolTip": "DataBaseFirstApproach\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-14T10:42:20.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DataBaseFirstApproach\\DataBaseFirstApproach\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\taimoor\\DataBaseFirstApproach\\DataBaseFirstApproach\\Program.cs",
               "RelativeDocumentMoniker": "DataBaseFirstApproach\\Program.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\DataBaseFirstApproach\\DataBaseFirstApproach\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\taimoor\\DataBaseFirstApproach\\DataBaseFirstApproach\\Program.cs",
               "RelativeToolTip": "DataBaseFirstApproach\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wAUAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-12T23:17:25.946Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DataBaseFirstApproach\\DataBaseFirstApproach\\Views\\Employee\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\taimoor\\DataBaseFirstApproach\\DataBaseFirstApproach\\Views\\Employee\\Index.cshtml",
               "RelativeDocumentMoniker": "DataBaseFirstApproach\\Views\\Employee\\Index.cshtml",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\DataBaseFirstApproach\\DataBaseFirstApproach\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\taimoor\\DataBaseFirstApproach\\DataBaseFirstApproach\\Views\\Employee\\Index.cshtml",
               "RelativeToolTip": "DataBaseFirstApproach\\Views\\Employee\\Index.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAIBJwBAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-12T23:15:45.966Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DataBaseFirstApproach\\DataBaseFirstApproach\\Controllers\\EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\taimoor\\DataBaseFirstApproach\\DataBaseFirstApproach\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "DataBaseFirstApproach\\Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\DataBaseFirstApproach\\DataBaseFirstApproach\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\taimoor\\DataBaseFirstApproach\\DataBaseFirstApproach\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "DataBaseFirstApproach\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-12T23:08:57.777Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "EmployeeDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DataBaseFirstApproach\\DataBaseFirstApproach\\Models\\EmployeeDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\taimoor\\DataBaseFirstApproach\\DataBaseFirstApproach\\Models\\EmployeeDbContext.cs",
               "RelativeDocumentMoniker": "DataBaseFirstApproach\\Models\\EmployeeDbContext.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\DataBaseFirstApproach\\DataBaseFirstApproach\\Models\\EmployeeDbContext.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\taimoor\\DataBaseFirstApproach\\DataBaseFirstApproach\\Models\\EmployeeDbContext.cs",
               "RelativeToolTip": "DataBaseFirstApproach\\Models\\EmployeeDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
