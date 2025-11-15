@@ -1,0 +1,30 @@
+﻿@model Students
+<div class="container text-center">
+<h2 class="display-4" >Create Students</h2>
+<form asp-action="" method="post">
+   <label asp-for="Name">Name</label>
+   <input type="text" asp-for="Name" value="" />
+   <br />
+
+    <label asp-for="Email">Email</label>
+    <input type="email" asp-for="Email" value="" />
+    <br />
+
+    <label asp-for="Age">Age</label>
+    <input type="int" asp-for="Age" value="" />
+    <br />
+
+    <input class="btn btn-primary" type="submit" value="Create">
+</form>
+</div>
+
+@if (ViewBag.Message != null)
+{
+    <p class="text-success mt-3" style="text-align:center; font-weight:bold;">@ViewBag.Message</p>
+}
+
+
+@section Scripts
+{
+    <partial name="_ValidationScriptsPartial.cshtml" />
+}
