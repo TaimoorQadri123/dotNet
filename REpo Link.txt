@@ -1,1 +1,13 @@
  https://github.com/TaimoorQadri123/dotNet.git
+
+
+
+https://visualstudio.microsoft.com/downloads/
+ 
+Visual Studio
++1
+
+Agar direct installer download karna ho: use this bootstrapper: https://aka.ms/vs/17/release/vs_community.exe
+ 
+Chocolatey Software
++1
