@@ -58,3 +58,5 @@ wwwroot\lib\jquery\dist\jquery.js
 wwwroot\lib\jquery\dist\jquery.min.js
 wwwroot\lib\jquery\dist\jquery.min.map
 wwwroot\lib\jquery\LICENSE.txt
+wwwroot\Uploads\Rolex.avif
+wwwroot\Uploads\Screenshot 2025-11-20 045537.png

@@ -33,11 +33,8 @@ namespace ModelHandling.Controllers
         [HttpPost]
         public async Task<IActionResult> Create(Products products,IFormFile file)
         {
-            if (ModelState.IsValid) {
-                _context.Products.Add(products);
-                _context.SaveChanges();
-                return RedirectToAction("Index");
-            }
+            ViewBag.Categories = new SelectList(_context.Category, "Id", "CatName");
+
             string filestore = Path.Combine(_env.WebRootPath,"Uploads");
             if (!Directory.Exists(filestore))
             {
@@ -46,7 +43,7 @@ namespace ModelHandling.Controllers
             if(file != null && file.Length > 0)
             {
                 string filename = Path.GetFileName(file.FileName);
-                string filepath = Path.Combine(filestore.filename);
+                string filepath = Path.Combine(filestore,filename);
                 using(var stream = new FileStream(filepath, FileMode.Create))
                 {
                     await file.CopyToAsync(stream);
@@ -56,7 +53,15 @@ namespace ModelHandling.Controllers
                 
             }
 
-            ViewBag.Categories = new SelectList(_context.Category, "Id", "CatName");
+          
+
+            if (ModelState.IsValid)
+            {
+                _context.Products.Add(products);
+                _context.SaveChanges();
+                return RedirectToAction("Index");
+            }
+
             return View(products);
         }
 
