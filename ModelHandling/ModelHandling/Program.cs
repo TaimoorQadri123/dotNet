@@ -7,7 +7,7 @@ namespace ModelHandling
 {
     public class Program
     {
-        public static void Main(string[] args)
+        public static async Task Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
             
@@ -16,22 +16,72 @@ namespace ModelHandling
 
             builder.Services.AddDefaultIdentity<ApplicationUser>(options => options.SignIn.RequireConfirmedAccount = true).AddEntityFrameworkStores<ModelHandlingContext>();
 
-            builder.Services.AddDbContext<AppDbContext>(
+            builder.Services.AddDbContext<ModelHandlingContext>(
                x => x.UseSqlServer(builder.Configuration.GetConnectionString("ModelHandlingContextConnection")));
 
             builder.Services.AddDefaultIdentity<ApplicationUser>(options => options.SignIn.RequireConfirmedAccount = true).AddEntityFrameworkStores<ModelHandlingContext>();
 
+            builder.Services.AddRazorPages();
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
 
             var app = builder.Build();
 
+
+
+            using (var scope = app.Services.CreateScope())
+            {
+                var roleManager = scope.ServiceProvider.GetRequiredService<RoleManager<IdentityRole>>();
+                var userManager = scope.ServiceProvider.GetRequiredService<UserManager<ApplicationUser>>();
+
+                string[] roles = { "Admin", "User" };
+
+                foreach (var role in roles)
+                {
+                    if (!await roleManager.RoleExistsAsync(role))
+                    {
+                        await roleManager.CreateAsync(new IdentityRole(role));
+                    }
+                }
+                string adminEmail = "admin@gmail.com";
+                string adminPassword = "Admin@123";
+
+                var adminUser = await userManager.FindByEmailAsync(adminEmail);
+                if (adminUser == null)
+                {
+                    var newAdmin = new ApplicationUser
+                    {
+                        UserName = adminEmail,
+                        Email = adminEmail,
+                        EmailConfirmed = true
+                    };
+
+                    var result = await userManager.CreateAsync(newAdmin, adminPassword);
+                    if (result.Succeeded)
+                    {
+                        await userManager.AddToRoleAsync(newAdmin, "Admin");
+                    }
+                }
+
+            }
+
+
+
+
+
+
+
+
+
+
+
             // Configure the HTTP request pipeline.
             if (!app.Environment.IsDevelopment())
             {
                 app.UseExceptionHandler("/Home/Error");
             }
+            app.MapRazorPages();
             app.UseStaticFiles();
 
             app.UseRouting();
@@ -40,7 +90,7 @@ namespace ModelHandling
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Product}/{action=Create}/{id?}");
+                pattern: "{controller=Home}/{action=Index}/{id?}");
 
             app.Run();
         }

@@ -1,57 +1,85 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\ModelHandling\\",
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Taimoor\\ModelHandling\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|c:\\users\\admin\\source\\repos\\modelhandling\\modelhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|solutionrelative:modelhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|c:\\users\\hp\\desktop\\taimoor\\modelhandling\\modelhandling\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|solutionrelative:modelhandling\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|c:\\users\\admin\\source\\repos\\modelhandling\\modelhandling\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|solutionrelative:modelhandling\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|c:\\users\\hp\\desktop\\taimoor\\modelhandling\\modelhandling\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|solutionrelative:modelhandling\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|c:\\users\\admin\\source\\repos\\modelhandling\\modelhandling\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|solutionrelative:modelhandling\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|c:\\users\\hp\\desktop\\taimoor\\modelhandling\\modelhandling\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|solutionrelative:modelhandling\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|c:\\users\\admin\\source\\repos\\modelhandling\\modelhandling\\modelhandling.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|solutionrelative:modelhandling\\modelhandling.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|c:\\users\\hp\\desktop\\taimoor\\modelhandling\\modelhandling\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|solutionrelative:modelhandling\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|c:\\users\\admin\\source\\repos\\modelhandling\\modelhandling\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|solutionrelative:modelhandling\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|c:\\users\\hp\\desktop\\taimoor\\modelhandling\\modelhandling\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|solutionrelative:modelhandling\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|c:\\users\\admin\\source\\repos\\modelhandling\\modelhandling\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|solutionrelative:modelhandling\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|c:\\users\\hp\\desktop\\taimoor\\modelhandling\\modelhandling\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|solutionrelative:modelhandling\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|c:\\users\\admin\\source\\repos\\modelhandling\\modelhandling\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|solutionrelative:modelhandling\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|c:\\users\\hp\\desktop\\taimoor\\modelhandling\\modelhandling\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|solutionrelative:modelhandling\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|c:\\users\\admin\\source\\repos\\modelhandling\\modelhandling\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|solutionrelative:modelhandling\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|c:\\users\\hp\\desktop\\taimoor\\modelhandling\\modelhandling\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|solutionrelative:modelhandling\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|c:\\users\\admin\\source\\repos\\modelhandling\\modelhandling\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|solutionrelative:modelhandling\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|c:\\users\\hp\\desktop\\taimoor\\modelhandling\\modelhandling\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|solutionrelative:modelhandling\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|c:\\users\\admin\\source\\repos\\modelhandling\\modelhandling\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|c:\\users\\hp\\desktop\\taimoor\\modelhandling\\modelhandling\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|solutionrelative:modelhandling\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|c:\\users\\admin\\source\\repos\\modelhandling\\modelhandling\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|solutionrelative:modelhandling\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|c:\\users\\hp\\desktop\\taimoor\\modelhandling\\modelhandling\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|solutionrelative:modelhandling\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|c:\\users\\hp\\desktop\\taimoor\\modelhandling\\modelhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|solutionrelative:modelhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|c:\\users\\hp\\desktop\\taimoor\\modelhandling\\modelhandling\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|solutionrelative:modelhandling\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|c:\\users\\hp\\desktop\\taimoor\\modelhandling\\modelhandling\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|solutionrelative:modelhandling\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|c:\\users\\hp\\desktop\\taimoor\\modelhandling\\modelhandling\\modelhandling.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|solutionrelative:modelhandling\\modelhandling.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|c:\\users\\hp\\desktop\\taimoor\\modelhandling\\modelhandling\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|solutionrelative:modelhandling\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|c:\\users\\hp\\desktop\\taimoor\\modelhandling\\modelhandling\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|solutionrelative:modelhandling\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Desktop\\taimoor\\DataBaseFirstApproach\\DataBaseFirstApproach\\Controllers\\CategoriesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|c:\\users\\admin\\source\\repos\\modelhandling\\modelhandling\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|c:\\users\\hp\\desktop\\taimoor\\modelhandling\\modelhandling\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|solutionrelative:modelhandling\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|c:\\users\\hp\\desktop\\taimoor\\modelhandling\\modelhandling\\areas\\identity\\data\\migrations\\20251206012310_newidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9237498C-51C4-4D16-9ED7-14A90A0ADF44}|ModelHandling\\ModelHandling.csproj|solutionrelative:modelhandling\\areas\\identity\\data\\migrations\\20251206012310_newidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -61,78 +89,208 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ModelHandling",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ModelHandling\\ModelHandling\\ModelHandling.csproj",
-              "RelativeDocumentMoniker": "ModelHandling\\ModelHandling.csproj",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\ModelHandling\\ModelHandling\\ModelHandling.csproj",
-              "RelativeToolTip": "ModelHandling\\ModelHandling.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-04T07:36:09.052Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ModelHandling\\ModelHandling\\Program.cs",
-              "RelativeDocumentMoniker": "ModelHandling\\Program.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\ModelHandling\\ModelHandling\\Program.cs",
-              "RelativeToolTip": "ModelHandling\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T07:34:15.195Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Taimoor\\ModelHandling\\ModelHandling\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "ModelHandling\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Taimoor\\ModelHandling\\ModelHandling\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "ModelHandling\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-06T02:43:05.733Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ModelHandling\\ModelHandling\\Views\\Product\\Delete.cshtml",
-              "RelativeDocumentMoniker": "ModelHandling\\Views\\Product\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\ModelHandling\\ModelHandling\\Views\\Product\\Delete.cshtml",
-              "RelativeToolTip": "ModelHandling\\Views\\Product\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Taimoor\\ModelHandling\\ModelHandling\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "ModelHandling\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Taimoor\\ModelHandling\\ModelHandling\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "ModelHandling\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACAAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-19T23:17:13.238Z"
+              "WhenOpened": "2025-12-06T02:41:52.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Taimoor\\ModelHandling\\ModelHandling\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ModelHandling\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Taimoor\\ModelHandling\\ModelHandling\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ModelHandling\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAADwAAACXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T02:39:27.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Taimoor\\ModelHandling\\ModelHandling\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "ModelHandling\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Taimoor\\ModelHandling\\ModelHandling\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "ModelHandling\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-06T02:34:56.209Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ModelHandling\\ModelHandling\\Views\\Product\\Edit.cshtml",
-              "RelativeDocumentMoniker": "ModelHandling\\Views\\Product\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\ModelHandling\\ModelHandling\\Views\\Product\\Edit.cshtml",
-              "RelativeToolTip": "ModelHandling\\Views\\Product\\Edit.cshtml",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAACAAAABFAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Taimoor\\ModelHandling\\ModelHandling\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ModelHandling\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Taimoor\\ModelHandling\\ModelHandling\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "ModelHandling\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-19T23:14:58.586Z"
+              "WhenOpened": "2025-12-06T02:34:51.174Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ModelHandling\\ModelHandling\\appsettings.json",
-              "RelativeDocumentMoniker": "ModelHandling\\appsettings.json",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\ModelHandling\\ModelHandling\\appsettings.json",
-              "RelativeToolTip": "ModelHandling\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-19T23:07:18.685Z",
-              "EditorCaption": ""
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Taimoor\\ModelHandling\\ModelHandling\\Views\\Categories\\Details.cshtml",
+              "RelativeDocumentMoniker": "ModelHandling\\Views\\Categories\\Details.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Taimoor\\ModelHandling\\ModelHandling\\Views\\Categories\\Details.cshtml",
+              "RelativeToolTip": "ModelHandling\\Views\\Categories\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-06T02:34:46.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Taimoor\\ModelHandling\\ModelHandling\\Views\\Categories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ModelHandling\\Views\\Categories\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Taimoor\\ModelHandling\\ModelHandling\\Views\\Categories\\Delete.cshtml",
+              "RelativeToolTip": "ModelHandling\\Views\\Categories\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-06T02:34:41.298Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Taimoor\\ModelHandling\\ModelHandling\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "ModelHandling\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Taimoor\\ModelHandling\\ModelHandling\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "ModelHandling\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-06T02:32:32.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Taimoor\\ModelHandling\\ModelHandling\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "ModelHandling\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Taimoor\\ModelHandling\\ModelHandling\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "ModelHandling\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-06T02:19:47.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Taimoor\\ModelHandling\\ModelHandling\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "ModelHandling\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Taimoor\\ModelHandling\\ModelHandling\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "ModelHandling\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAAAHgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T02:10:53.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20251206012310_NewIdentity.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Taimoor\\ModelHandling\\ModelHandling\\Areas\\Identity\\Data\\Migrations\\20251206012310_NewIdentity.cs",
+              "RelativeDocumentMoniker": "ModelHandling\\Areas\\Identity\\Data\\Migrations\\20251206012310_NewIdentity.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Taimoor\\ModelHandling\\ModelHandling\\Areas\\Identity\\Data\\Migrations\\20251206012310_NewIdentity.cs",
+              "RelativeToolTip": "ModelHandling\\Areas\\Identity\\Data\\Migrations\\20251206012310_NewIdentity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T01:23:10.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Taimoor\\ModelHandling\\ModelHandling\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ModelHandling\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Taimoor\\ModelHandling\\ModelHandling\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ModelHandling\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T01:20:04.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Taimoor\\ModelHandling\\ModelHandling\\Program.cs",
+              "RelativeDocumentMoniker": "ModelHandling\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Taimoor\\ModelHandling\\ModelHandling\\Program.cs",
+              "RelativeToolTip": "ModelHandling\\Program.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T07:34:15.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Taimoor\\ModelHandling\\ModelHandling\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ModelHandling\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Taimoor\\ModelHandling\\ModelHandling\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ModelHandling\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-21T23:01:03.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ModelHandling.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Taimoor\\ModelHandling\\ModelHandling\\ModelHandling.csproj",
+              "RelativeDocumentMoniker": "ModelHandling\\ModelHandling.csproj",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Taimoor\\ModelHandling\\ModelHandling\\ModelHandling.csproj",
+              "RelativeToolTip": "ModelHandling\\ModelHandling.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-04T07:36:09.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Taimoor\\ModelHandling\\ModelHandling\\appsettings.json",
+              "RelativeDocumentMoniker": "ModelHandling\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Taimoor\\ModelHandling\\ModelHandling\\appsettings.json",
+              "RelativeToolTip": "ModelHandling\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-19T23:07:18.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Products.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ModelHandling\\ModelHandling\\Models\\Products.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Taimoor\\ModelHandling\\ModelHandling\\Models\\Products.cs",
               "RelativeDocumentMoniker": "ModelHandling\\Models\\Products.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\ModelHandling\\ModelHandling\\Models\\Products.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Taimoor\\ModelHandling\\ModelHandling\\Models\\Products.cs",
               "RelativeToolTip": "ModelHandling\\Models\\Products.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -140,48 +298,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ModelHandling\\ModelHandling\\Views\\Product\\Create.cshtml",
-              "RelativeDocumentMoniker": "ModelHandling\\Views\\Product\\Create.cshtml",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\ModelHandling\\ModelHandling\\Views\\Product\\Create.cshtml",
-              "RelativeToolTip": "ModelHandling\\Views\\Product\\Create.cshtml",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAACYAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-17T10:50:41.83Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ModelHandling\\ModelHandling\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "ModelHandling\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\ModelHandling\\ModelHandling\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "ModelHandling\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAIAwwC4AAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-17T10:49:37.469Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ModelHandling\\ModelHandling\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "ModelHandling\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\ModelHandling\\ModelHandling\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "ModelHandling\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACMAAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T10:39:10.97Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ModelHandling\\ModelHandling\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Taimoor\\ModelHandling\\ModelHandling\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ModelHandling\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\ModelHandling\\ModelHandling\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Taimoor\\ModelHandling\\ModelHandling\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ModelHandling\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAA+wA4AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -189,35 +310,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ModelHandling\\ModelHandling\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ModelHandling\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\ModelHandling\\ModelHandling\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ModelHandling\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAACIAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-21T23:01:03.414Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\taimoor\\DataBaseFirstApproach\\DataBaseFirstApproach\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\taimoor\\DataBaseFirstApproach\\DataBaseFirstApproach\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\admin\\Desktop\\taimoor\\DataBaseFirstApproach\\DataBaseFirstApproach\\Controllers\\CategoriesController.cs",
               "ToolTip": "C:\\Users\\admin\\Desktop\\taimoor\\DataBaseFirstApproach\\DataBaseFirstApproach\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "..\\..\\..\\Desktop\\taimoor\\DataBaseFirstApproach\\DataBaseFirstApproach\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\admin\\Desktop\\taimoor\\DataBaseFirstApproach\\DataBaseFirstApproach\\Controllers\\CategoriesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-17T11:11:00.183Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "Students.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ModelHandling\\ModelHandling\\Models\\Students.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Taimoor\\ModelHandling\\ModelHandling\\Models\\Students.cs",
               "RelativeDocumentMoniker": "ModelHandling\\Models\\Students.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\ModelHandling\\ModelHandling\\Models\\Students.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Taimoor\\ModelHandling\\ModelHandling\\Models\\Students.cs",
               "RelativeToolTip": "ModelHandling\\Models\\Students.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

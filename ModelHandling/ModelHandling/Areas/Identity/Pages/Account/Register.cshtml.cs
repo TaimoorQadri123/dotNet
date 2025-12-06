@@ -1,4 +1,4 @@
-﻿// Licensed to the .NET Foundation under one or more agreements.
+﻿ // Licensed to the .NET Foundation under one or more agreements.
 // The .NET Foundation licenses this file to you under the MIT license.
 #nullable disable
 
@@ -118,6 +118,7 @@ namespace ModelHandling.Areas.Identity.Pages.Account
                 await _userStore.SetUserNameAsync(user, Input.Email, CancellationToken.None);
                 await _emailStore.SetEmailAsync(user, Input.Email, CancellationToken.None);
                 var result = await _userManager.CreateAsync(user, Input.Password);
+                await _userManager.AddToRoleAsync(user, "User");
 
                 if (result.Succeeded)
                 {
